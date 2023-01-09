@@ -29,15 +29,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wiki.anaflightsim.com" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
-github_branch: "master"
+#repo: "https://github.com/vsoch/docsy-jekyll"
+#github_user: "vsoch"
+#github_repo: "docsy-jekyll"
+#github_branch: "master"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+#twitter: vsoch
+#linkedin: vsochat
+#dockerhub: vanessa
 
 # These options are used to configure the locations of your version history when you want to serve versioned documents
 version_params:
