@@ -1,25 +1,31 @@
-- title: Documentation
-  url: docs
+- title: Airport Operational Notes
+  url: "docs/airport"
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: Versioning
-      url: "docs/versioning"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
-- title: "Extras"
-  url: "docs/extras"
+    - title: "Tokyo Haneda (RJTT)"
+      url: "docs/airport/RJTT"
+
+- title: Flight Planning
+  url: "docs/FlightPlanning"
   links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
+    - title: "Flight Planned Route"
+      url: "docs/FlightPlanning/fpr"
+    - title: "Flight Plan Filing"
+      url: "docs/FlightPlanning/flight_plan"
+
+- title: IFR Flight
+  url: "docs/IFR"
+  links:
+    - title: "VMC Climb"
+      url: "docs/IFR/VMC_Climb"
+
+- title: ATC Communication
+  url: "docs/ATC"
+  links:
+    - title: "Remote and Radio Airports"
+      url: "docs/ATC/randr"
+
+- title: Trivia
+  url: "docs/Trivia"
+  links:
+    - title: "ACARS"
+      url: "docs/Trivia/ACARS"

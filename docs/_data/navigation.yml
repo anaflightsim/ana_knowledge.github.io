@@ -1,4 +1,14 @@
-- title: About
-  url: about
-- title: Documentation
-  url: docs
+- title: Airport Operational Notes
+  url: "docs/airport"
+
+- title: Flight Planning
+  url: "docs/FlightPlanning"
+
+- title: IFR Flight
+  url: "docs/IFR"
+
+- title: ATC Communication
+  url: "docs/ATC"
+
+- title: Trivia
+  url: "docs/Trivia"

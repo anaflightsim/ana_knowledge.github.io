@@ -1,7 +1,7 @@
 <header>
         <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
         <a class="navbar-brand" href="{{ site.baseurl }}/">
-            <span class="navbar-logo"></span>{% include logo.svg %}<span class="text-uppercase font-weight-bold">{{ site.title }}</span>
+          <img src="../../assets/img/logo.png" height="25"><span class="navbar-logo"></span><span class="text-uppercase font-weight-bold">{{ site.title }}</span>
 	</a>
 	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
 		<ul class="navbar-nav mt-2 mt-lg-0">{% if site.repo %}
@@ -13,9 +13,12 @@
 			</li>{% endfor %}
       {% if site.version_params.versioning == true %}
       <!-- <li class="nav-item mr-4 mb-2 mb-lg-0"> -->
+      <!--
         {% if site.version_params.version_menu != '' %}
           <span class="nav-link ">{{site.version_params.version_menu}}:</span>
         {% endif %}
+        -->
+        <!--
         <li class="nav-item dropdown d-none d-lg-block">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ currentpageversion }}</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -36,6 +39,7 @@
             {% endfor %}
           </div>
         </li>
+      -->
       <!-- </li> -->
       {% endif %}
 		</ul>
@@ -43,7 +47,7 @@
 	<div class="navbar-nav d-none d-lg-block">
  <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
         </div>
-
+  <!--
 	<div class="navbar-nav d-none d-lg-block">
           <a class="gh-source" data-gh-source="github" href="{{ site.repo }}" title="Go to repository" data-md-state="done">
           <div class="gh-source__repository">
@@ -52,7 +56,7 @@
           <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
         </div>
       </div>
-
+    -->
 
 </nav>
 </header>
