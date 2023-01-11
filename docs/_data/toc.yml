@@ -11,6 +11,8 @@
       url: "docs/FlightPlanning/fpr"
     - title: "Flight Plan Filing"
       url: "docs/FlightPlanning/flight_plan"
+    - title: "Weather"
+      url: "docs/FlightPlanning/weather"
 
 - title: IFR Flight
   url: "docs/IFR"
