@@ -1,8 +1,8 @@
 ---
-title: "Tokyo [Haneda] (RJTT)"
+title: "Osaka [Itami] (RJOO)"
 ---
 
-# Operational Notes for Tokyo [Haneda] (RJTT)
+# Operational Notes for Osaka [Itami] (RJOO) 
 {% include alert.html type="info" title="Materials used for this article include Japan AIP and squawk.id. Some of the conclusions are drawn from the author's personal speculations. Any information in this doucment should not be used for real operations." %}
 
 ## Overview
@@ -25,16 +25,4 @@ title: "Tokyo [Haneda] (RJTT)"
 
 ### Noise Abatement Procedures
 
-## Night Operation (Departure)
-### SID/Runway Selection and Departure Planning
-
-### Pushback and Ground Operation 
-
-### Noise Abatement Procedures
-
-## Night Operation (Arrival)
-#### STAR/Runway Selection and Arrival Planning
-
-#### Ground Operation
-
-#### Approach and Landing
+## Night Operation
