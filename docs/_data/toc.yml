@@ -17,14 +17,8 @@
 - title: IFR Flight
   url: "docs/IFR"
   links:
-    - title: "VMC Climb"
-      url: "docs/IFR/VMC_Climb"
-
-- title: ATC Communication
-  url: "docs/ATC"
-  links:
-    - title: "Remote and Radio Airports"
-      url: "docs/ATC/randr"
+    - title: "Radio and Remote Airports"
+      url: "docs/IFR/randr"
 
 - title: Trivia
   url: "docs/Trivia"

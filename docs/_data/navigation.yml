@@ -7,8 +7,8 @@
 - title: IFR Flight
   url: "docs/IFR"
 
-- title: ATC Communication
-  url: "docs/ATC"
-
 - title: Trivia
   url: "docs/Trivia"
+
+- title: ANA Flightsim Web
+  url: "https://anaflightsim.com/"
