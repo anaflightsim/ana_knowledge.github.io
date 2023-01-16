@@ -1,8 +1,20 @@
 - title: Airport Operational Notes
   url: "docs/airport"
   links:
-    - title: "Tokyo Haneda (RJTT)"
+    - title: "Tokyo [Haneda] (RJTT)"
       url: "docs/airport/RJTT"
+    - title: "[Tokyo] Narita (RJAA)"
+      url: "docs/airport/RJAA"
+    - title: "[Osaka] Kansai (RJBB)"
+      url: "docs/airport/RJBB"
+    - title: "Osaka [Itami] (RJOO) "
+      url: "docs/airport/RJOO"
+    - title: "New Chitose (RJCC)"
+      url: "docs/airport/RJCC"
+    - title: "Chubu Centrair (RJGG)"
+      url: "docs/airport/RJGG"
+    - title: "Fukuoka (RJFF)"
+      url: "docs/airport/RJFF"
 
 - title: Flight Planning
   url: "docs/FlightPlanning"
@@ -27,3 +39,7 @@
       url: "docs/Trivia/ACARS"
     - title: "Approach Procedures"
       url: "docs/Trivia/apch"
+    - title: "Noise Abatement Procedures"
+      url: "docs/Trivia/noise"
+    - title: "Point Merge System"
+      url: "docs/Trivia/pms"
